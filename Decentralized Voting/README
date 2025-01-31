@@ -1,0 +1,20 @@
+The goal of this project is to develop a secure, transparent, and tamper-proof voting system using blockchain technology. This system will allow users to cast votes in a decentralized manner, ensuring fairness and eliminating the risks of manipulation or fraud. 
+
+The key objectives include:
+
+Immutability: Votes cannot be altered once cast.
+
+Security: Only authorized voters can participate.
+
+Transparency: Election results are verifiable by anyone.
+
+Ease of Use: Simple user interface for voters to cast and verify votes.
+
+The project consists of the following main files:
+
+1. Smart Contract Files (.sol) 
+2. Deployment & Testing (.js) 
+3. Configuration & Dependencies (.js) (.env)
+4. Frontend Files (.html) (.js) (.css)
+
+There is also a written report on the efficacy of smart contracts in voting systems. 
